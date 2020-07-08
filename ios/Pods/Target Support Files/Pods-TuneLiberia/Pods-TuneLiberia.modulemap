@@ -1,0 +1,6 @@
+module Pods_TuneLiberia {
+  umbrella header "Pods-TuneLiberia-umbrella.h"
+
+  export *
+  module * { export * }
+}
